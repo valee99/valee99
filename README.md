@@ -1,8 +1,8 @@
 <!-- Introduction -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+My+name+is+Valentin+Aolarite.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+My+name+is+Valentin+Aolaritei.)](https://git.io/typing-svg)
 
 
-My name is Valentin Aolarite and I am a Master student at EPFL.
+My name is Valentin Aolaritei and I am a Master student at EPFL.
 
 - 🌱 I am currently learning about Machine Learning and Deep Learning, which are topics I am interested in.
 - 📫 How to reach me: valentin.aolaritei99@gmail.com
